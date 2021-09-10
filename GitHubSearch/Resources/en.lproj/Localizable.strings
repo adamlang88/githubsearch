@@ -1,0 +1,25 @@
+/* 
+  Localization.strings
+  GitHubSearch
+
+  Created by Lang Ádám on 2021. 08. 28..
+  
+*/
+
+"search_title" = "Search";
+"search_bar_placeholder" = "Search repositories";
+"search_no_results" = "Not found any results";
+"search_next" = "Next";
+"search_prev" = "Previous";
+"search_server_error" = "Network error";
+"search_server_error_ratelimit" = "API rate limit exceeded";
+"search_result_initial" = "Use search bar to search repos";
+
+"search_result_owner" = "Owner";
+"search_result_repository_name" = "Name";
+"search_result_descriptions" = "Description";
+"search_result_programming_language" = "Language";
+"search_result_stars" = "Stars";
+"search_result_stars_network_error" = "Network error when fetching";
+"search_result_no_data" = "No data";
+
